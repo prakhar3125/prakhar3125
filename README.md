@@ -1,7 +1,4 @@
 <h1 align="center">Prakhar Sinha</h1>
-<p align="center">
-  <img src="https://i.ibb.co/J5qHKYY/White-Minimalist-Profile-Linked-In-Banner-1.jpg" alt="Banner">
-</p>
 
 
 # 🧑‍💻 About Me:
