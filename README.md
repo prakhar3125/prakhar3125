@@ -20,9 +20,7 @@ I am currently pursuing a B.Tech degree in Computer Science at VIT Vellore. I am
 ![LeetCode Stats](https://leetcard.jacoblin.cool/prakhar3125?theme=dark&font=Montserrat)
 
 # 📊 GitHub Stats:
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=prakhar3125&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="width: 50%;" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar3125&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Languages" style="width: 50%;" />
-</div>
+![](https://github-readme-stats.vercel.app/api?username=prakhar3125&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prakhar3125&theme=transparent&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
