@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🧑‍💻 About Me:
 I am currently pursuing a B.Tech degree in Computer Science at VIT Vellore. I am always eager to learn new things and expand my knowledge and skills. <br><br>In my spare time, I enjoy learning about web development, as well as watching and analyzing cricket matches. I also love to relax by listening to music, watching American TV shows and sitcoms.
 
 
