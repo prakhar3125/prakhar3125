@@ -1,10 +1,7 @@
 <h1 align="center">Prakhar Sinha</h1>
 
 
-
-<div align="center">
-  <img height="200" src="https://github.com/prakhar3125/prakhar3125/assets/111203228/336ae1a6-b6c0-40f7-be47-ec01ed6701c2" style="max-width:100%;" />
-</div>
+![White Minimalist Profile LinkedIn Banner (1)](https://github.com/prakhar3125/prakhar3125/assets/111203228/336ae1a6-b6c0-40f7-be47-ec01ed6701c2)
 
 
 # 🧑‍💻 About Me:
