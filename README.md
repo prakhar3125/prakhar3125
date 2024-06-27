@@ -1,6 +1,9 @@
 <h1 align="center">Prakhar Sinha</h1>
 
 
+
+![White Minimalist Profile LinkedIn Banner (1)](https://github.com/prakhar3125/prakhar3125/assets/111203228/336ae1a6-b6c0-40f7-be47-ec01ed6701c2)
+
 # 🧑‍💻 About Me:
 I am currently pursuing a B.Tech degree in Computer Science at VIT Vellore. I am always eager to learn new things and expand my knowledge and skills. <br><br>In my spare time, I enjoy learning about web development, as well as watching and analyzing cricket matches. I also love to relax by listening to music, watching American TV shows and sitcoms.
 
