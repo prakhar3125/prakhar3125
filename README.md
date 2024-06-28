@@ -1,5 +1,9 @@
 <h1 align="center">Prakhar Sinha</h1>
+<div align="center">
 
+### 3rd Year CSE Student @ VIT Vellore · Aspiring Programmer and Web Developer · Learning Java and DSA
+
+</div>
 
 ![White Minimalist Profile LinkedIn Banner (1)](https://github.com/prakhar3125/prakhar3125/assets/111203228/336ae1a6-b6c0-40f7-be47-ec01ed6701c2)
 
