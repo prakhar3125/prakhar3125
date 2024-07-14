@@ -8,6 +8,7 @@ https://prakhar3125.netlify.app/
 ### 3rd Year CSE Student @ VIT Vellore · Aspiring Programmer and Web Developer · Learning Java and DSA
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prakhar3125) [![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?logo=leetcode&logoColor=white)](https://leetcode.com/prakhar3125) [![Codeforces](https://img.shields.io/badge/codeforces-%234566B5.svg?logo=codeforces&logoColor=white)](https://codeforces.com/profile/prakhar3125) [![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?logo=Gmail&logoColor=white)](mailto:workspace.prakhar@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/prakhar.3125)
 
+
 </div>
 
 ![White Minimalist Profile LinkedIn Banner (1)](https://github.com/prakhar3125/prakhar3125/assets/111203228/336ae1a6-b6c0-40f7-be47-ec01ed6701c2)
