@@ -25,6 +25,8 @@ I am currently pursuing a B.Tech degree in Computer Science at VIT Vellore. I am
 ![LeetCode Stats](https://leetcard.jacoblin.cool/prakhar3125?theme=dark&font=Montserrat)
 
 # 🗂️ Recent Projects:
+![portal](https://github.com/user-attachments/assets/6d4033a6-14b7-4758-a696-1fb9edfc9357)
+
 [![Copy of webb (2)](https://github.com/prakhar3125/prakhar3125/assets/111203228/56b7a1bd-1741-4867-835a-9ee0ca3ad80d)](https://prakhar3125.github.io/Responsive-Drone-Marketplace/)
  
 
