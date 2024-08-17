@@ -22,7 +22,7 @@ I am currently pursuing a B.Tech degree in Computer Science at VIT Vellore. I am
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 # 📚 LeetCode:
-![LeetCode Stats](https://leetcard.jacoblin.cool/prakhar3125?theme=dark&font=Montserrat)
+![LeetCode Stats](https://leetcard.jacoblin.cool/prakhar3125?theme=dark&font=Montserrat&ext=heatmap)
 
 # 🗂️ Recent Projects:
 ![portal](https://github.com/user-attachments/assets/6d4033a6-14b7-4758-a696-1fb9edfc9357)
