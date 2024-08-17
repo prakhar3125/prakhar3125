@@ -1,0 +1,25 @@
+name: Daily Commit
+
+on:
+  schedule:
+    - cron: '0 0 * * *'
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Git
+        run: |
+          git config --global user.name "GitHub Actions"
+          git config --global user.email "actions@github.com"
+
+      - name: Create or update a timestamp file
+        run: |
+          DATE=$(date -u +"%Y-%m-%d %H:%M:%S")
+          echo "Last commit: $DATE" > daily-commit.txt
+          git add daily-commit.txt
+          git commit -m "Daily commit: $DATE"
+          git push
