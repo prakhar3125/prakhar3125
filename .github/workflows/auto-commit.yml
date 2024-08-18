@@ -3,7 +3,7 @@ name: Auto Commit
 on:
   schedule:
     - cron: '5 15 * * *'
-    - cron: '5 15 * * *'
+    - cron: '10 15 * * *'  # Second commit 5 minutes later
 
 jobs:
   commit:
