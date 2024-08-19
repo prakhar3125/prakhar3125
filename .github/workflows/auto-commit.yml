@@ -2,15 +2,14 @@ name: Auto Commit
 
 on:
   schedule:
-    - cron: '45 9 * * *'
-    - cron: '50 9 * * *'  # Second commit 5 minutes later
+    - cron: '5 10 * * *'  # 10:05 AM UTC, which is 3:35 PM IST
 
 jobs:
   commit:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Make a commit
         run: |
