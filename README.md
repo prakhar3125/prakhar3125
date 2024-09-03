@@ -16,7 +16,11 @@ https://prakhar3125.netlify.app/
 
 
 # 🧑‍💻 About Me:
-I am currently pursuing a B.Tech degree in Computer Science at VIT Vellore. I am always eager to learn new things and expand my knowledge and skills. <br><br>In my spare time, I enjoy learning about web development, as well as watching and analyzing cricket matches. I also love to relax by listening to music, watching American TV shows and sitcoms.
+I'm currently pursuing a B.Tech degree in Computer Science at VIT Vellore. I'm passionate about expanding my knowledge and skills, particularly in web development, data structures, and algorithms.
+
+In my spare time, I enjoy analyzing cricket matches, listening to music, and watching American TV shows and sitcoms. I've worked on various full-stack applications, demonstrating my ability to develop and manage complex projects effectively.
+
+I'm always eager to learn new things and take on challenging projects that allow me to grow both personally and professionally.
 
 
 
