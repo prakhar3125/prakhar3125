@@ -35,6 +35,7 @@ I'm always eager to learn new things and take on challenging projects that allow
 
 # 📚 LeetCode:
 ![LeetCode Stats](https://leetcard.jacoblin.cool/prakhar3125?theme=dark&font=Montserrat&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/prakhar3125?theme=dark&font=Poppins&ext=heatmap)
 
 # 🗂️ Recent Projects:
 ![portal](https://github.com/user-attachments/assets/6d4033a6-14b7-4758-a696-1fb9edfc9357)
