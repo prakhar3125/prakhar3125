@@ -37,8 +37,13 @@ I'm always eager to learn new things and take on challenging projects that allow
 ![LeetCode Stats](https://leetcard.jacoblin.cool/prakhar3125?theme=dark&font=Montserrat&ext=heatmap)
 
 # 🗂️ Recent Projects:
-![portal](https://github.com/user-attachments/assets/6d4033a6-14b7-4758-a696-1fb9edfc9357)
 
+
+[![codepulse](https://github.com/user-attachments/assets/00e1de96-81da-40c3-86d7-48a2a93b7157)]([https://github.com/prakhar3125/codepulse](https://codepulsetracker.vercel.app/authentication))
+[![railcare](https://github.com/user-attachments/assets/fa5974ec-6c5c-4642-a35d-ea0aa7201af7)](https://railcare.vercel.app/)
+[![rexpenseflow](https://github.com/user-attachments/assets/035850ce-b447-45b1-873e-afab5696ab40)](https://expenseflowbudget.vercel.app/auth)
+[![resumeforge](https://github.com/user-attachments/assets/a05bf7a9-8475-4b42-af35-505c0373ebc1)](https://resumegenapp.vercel.app/)
+[![portal](https://github.com/user-attachments/assets/6d4033a6-14b7-4758-a696-1fb9edfc9357)](https://college-complaint-and-resolution-portal.vercel.app/index.html)
 [![Copy of webb (2)](https://github.com/prakhar3125/prakhar3125/assets/111203228/56b7a1bd-1741-4867-835a-9ee0ca3ad80d)](https://prakhar3125.github.io/Responsive-Drone-Marketplace/)
  
 
