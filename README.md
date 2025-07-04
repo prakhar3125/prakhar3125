@@ -6,7 +6,7 @@
 </div>
 <div align="center">
   
-### Final Year CSE Student @ VIT Vellore · AWS Certified Cloud Practitioner · Aspiring Programmer and Software Developer
+### Final Year CSE Student @ VIT Vellore · Aspiring Programmer and Software Developer
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-004182?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/prakhar3125)
 [![LeetCode](https://img.shields.io/badge/LeetCode-black?style=for-the-badge&logo=leetcode&logoColor=FFA116)](https://leetcode.com/prakhar3125)
 [![Gmail](https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:workspace.prakhar@gmail.com)
