@@ -41,38 +41,11 @@ I'm looking to connect with other developers and mentors in the tech space, and 
 
 # 🗂️ Recent Projects (Click for Live Demo) : 
 
-<p align="center">
-<!-- Row 1 -->
-<a href="https://codepulsetracker.vercel.app/authentication" target="_blank" rel="noopener noreferrer">
-<img src="https://github.com/user-attachments/assets/00e1de96-81da-40c3-86d7-48a2a93b7157" alt="CodePulse Project Showcase" width="400" style="max-width: 100%; height: auto; border-radius: 8px;" loading="lazy">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://railcare.vercel.app/" target="_blank" rel="noopener noreferrer">
-<img src="https://github.com/user-attachments/assets/fa5974ec-6c5c-4642-a35d-ea0aa7201af7" alt="RailCare Project Showcase" width="400" style="max-width: 100%; height: auto; border-radius: 8px;" loading="lazy">
-</a>
-<br><br>
-
-<!-- Row 2 -->
-
-<a href="https://expenseflowbudget.vercel.app/auth" target="_blank" rel="noopener noreferrer">
-<img src="https://github.com/user-attachments/assets/035850ce-b447-45b1-873e-afab5696ab40" alt="RexpenseFlow Project Showcase" width="400" style="max-width: 100%; height: auto; border-radius: 8px;" loading="lazy">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://resumegenapp.vercel.app/" target="_blank" rel="noopener noreferrer">
-<img src="https://github.com/user-attachments/assets/a05bf7a9-8475-4b42-af35-505c0373ebc1" alt="ResumeForge Project Showcase" width="400" style="max-width: 100%; height: auto; border-radius: 8px;" loading="lazy">
-</a>
-<br><br>
-
-<!-- Row 3 -->
-
-<a href="https://college-complaint-and-resolution-portal.vercel.app/index.html" target="_blank" rel="noopener noreferrer">
-<img src="https://github.com/user-attachments/assets/6d4033a6-14b7-4758-a696-1fb9edfc9357" alt="Complaint Portal Project Showcase" width="400" style="max-width: 100%; height: auto; border-radius: 8px;" loading="lazy">
-</a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://prakhar3125.github.io/Responsive-Drone-Marketplace/" target="_blank" rel="noopener noreferrer">
-<img src="https://github.com/prakhar3125/prakhar3125/assets/111203228/56b7a1bd-1741-4867-835a-9ee0ca3ad80d" alt="Drone Marketplace Project Showcase" width="400" style="max-width: 100%; height: auto; border-radius: 8px;" loading="lazy">
-</a>
-</p>
- 
+[![codepulse](https://github.com/user-attachments/assets/00e1de96-81da-40c3-86d7-48a2a93b7157)](https://codepulsetracker.vercel.app/authentication)
+[![railcare](https://github.com/user-attachments/assets/fa5974ec-6c5c-4642-a35d-ea0aa7201af7)](https://railcare.vercel.app/)
+[![rexpenseflow](https://github.com/user-attachments/assets/035850ce-b447-45b1-873e-afab5696ab40)](https://expenseflowbudget.vercel.app/auth)
+[![resumeforge](https://github.com/user-attachments/assets/a05bf7a9-8475-4b42-af35-505c0373ebc1)](https://resumegenapp.vercel.app/)
+[![portal](https://github.com/user-attachments/assets/6d4033a6-14b7-4758-a696-1fb9edfc9357)](https://college-complaint-and-resolution-portal.vercel.app/index.html)
+[![Copy of webb (2)](https://github.com/prakhar3125/prakhar3125/assets/111203228/56b7a1bd-1741-4867-835a-9ee0ca3ad80d)](https://prakhar3125.github.io/Responsive-Drone-Marketplace/)
 
 
